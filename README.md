@@ -1,6 +1,8 @@
+<img src="Images/product_photo.jpg" alt="Product">
+
 # laptop-stand
 
-Based on the stand by YOHANN: https://www.yohann.com/product/macbook-and-macbook-pro-stand/
+Based on the stand by YOHANN: [YOHANN Stand](https://www.yohann.com/product/macbook-and-macbook-pro-stand/)
 
 - Maximize ventilation
 - Screen elevation
@@ -25,6 +27,12 @@ Based on the stand by YOHANN: https://www.yohann.com/product/macbook-and-macbook
 **Prototyping:**
 
 Image of pine prototype
+<img src="Images/Stand_assembly_render.gif" alt="Plan">
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="Images/Stand_render_2.jpg" alt="Stand Assembly Render" style="width: 45%; height: auto;">
+    <img src="Images/Stand_assembly_render_2.jpg" alt="Stand Assembly Render 2" style="width: 45%; height: auto;">
+</div>
 
 **Testing and Evaluation:**
 
@@ -34,4 +42,4 @@ Image of pine prototype
 
 **Final Product:**
 
-macbook model: https://grabcad.com/library/laptop-stand-40
+MacBook model: [GrabCAD Model](https://grabcad.com/library/laptop-stand-40)
