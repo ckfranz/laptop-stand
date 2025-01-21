@@ -11,7 +11,6 @@
 
 **Prototyping:**
 
-Image of pine prototype
 <img src="Images/Stand_assembly_render.gif" alt="Plan">
 
 <div style="display: flex; justify-content: center; gap: 10px;">
