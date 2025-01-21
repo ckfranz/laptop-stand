@@ -1,6 +1,6 @@
-<div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="Images/Stand_render_2.jpg" alt="Stand Assembly Render" style="width: 45%; height: auto;">
-    <img src="Images/Stand_assembly_render_2.jpg" alt="Stand Assembly Render 2" style="width: 45%; height: auto;">
+<div style="text-align: center; width: 100%;">
+    <img src="Images/Stand_render_2.jpg" alt="Stand Assembly Render" style="width: 49%; height: auto; display: inline-block;">
+    <img src="Images/Stand_assembly_render_2.jpg" alt="Stand Assembly Render 2" style="width: 49%; height: auto; display: inline-block;">
 </div>
 
 # DIY Laptop Stand
