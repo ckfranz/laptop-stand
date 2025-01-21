@@ -24,7 +24,7 @@
 **a. Materials:**
    - 10” x 4” x 15" block of wood of choice (walnut)
    - Rubber bumper strip
-2. Tools/Equipment
+**b. Tools/Equipment**
    - Band saw
    - Scroll Saw
    - Sander
@@ -32,14 +32,13 @@
    - Router
 
 ### Fabrication
-Steps
-   - Create a stencil of the side profile
-   - Trace the stencil on the block of wood
-   - Cut out the profile
+   1. Create a stencil of the side profile
+   2. Trace the stencil on the block of wood
+   3. Cut out the profile
        - Band Saw
        - Scroll Saw 
        - Router
-    - Finish
+   4. Finish
         - Sanding
         - Varnish
 
