@@ -13,9 +13,7 @@
 ### The Prototype:
 
 <p align="center">
-    <img src="Images/Laptop_Stand_Drawing.jpg" alt="plan" style="width: 65%; height: auto;">
-</p>
-<p align="center">
+    <img src="Images/Laptop_Stand_Drawing.jpg" alt="plan" style="width: 75%; height: auto;">
     <img src="Images/Stand_assembly_render.gif" alt="render-gif" style="width: 85%; height: auto;">
 </p>
 
