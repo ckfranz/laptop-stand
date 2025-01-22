@@ -22,6 +22,7 @@
 **a. Materials:**
    - 10” x 4” x 15" block of wood of choice (walnut)
    - Rubber bumper strip
+
 **b. Tools/Equipment**
    - Band saw
    - Scroll Saw
