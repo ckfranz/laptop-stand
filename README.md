@@ -3,7 +3,7 @@
     <img src="Images/Stand_assembly_render_2.jpg" alt="Stand Assembly Render 2" style="width: 49%; height: auto; display: inline-block;">
 </div>
 
-# DIY Laptop Stand
+# Laptop Stand
 
 ### Design Considerations
 - Maximize ventilation
